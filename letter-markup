@@ -79,8 +79,10 @@
         </address>
 
         <p>Dear Eileen,</p>
+</header>
+<section>
 
-Thank you for your recent application to join us at the University of
+<!--Thank you for your recent application to join us at the University of
 Awesome's science faculty to study as part of your PhD next year. I will
 answer your questions one by one, in the following sections.
 Starting dates
@@ -134,6 +136,7 @@ Yours sincerely,
 Dr Eleanor Gaye
 University of Awesome motto: "Be awesome to each other." -- Bill S
 Preston, Esq -->
+</section>
 
         <p>Yours sincerely,<br>
             <strong>Dr Eleanor Gaye</strong><br>
